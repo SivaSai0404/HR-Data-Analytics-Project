@@ -1,4 +1,4 @@
-# HR-Data-Analytics-Project(https://sivasai0404.github.io/HR-Data-Analytics-Project/)
+# HR-Data-Analytics-Project (https://sivasai0404.github.io/HR-Data-Analytics-Project/)
 # Problem Statement:
 * A HR manager was facing issue with attendance reports of employees within the company. The data available in excel format and want to get data driven insights like ……… to improve the efficiency.
 ## Technologies used:
